@@ -1,0 +1,82 @@
+{
+  "en": {
+    "name": "English",
+    "high_risk": "HIGH RISK FRAUD",
+    "medium_risk": "POSSIBLE FRAUD",
+    "safe": "LOW RISK",
+    "otp_warning": "Do not share OTP or make payment",
+    "apk_warning": "Do not install apps from WhatsApp or unknown links",
+    "call_warning": "Disconnect the call and stay calm",
+    "report": "Call 1930 or visit cybercrime.gov.in"
+  },
+  "hi": {
+    "name": "हिंदी",
+    "high_risk": "धोखाधड़ी का उच्च खतरा",
+    "medium_risk": "संभावित धोखाधड़ी",
+    "safe": "कम जोखिम",
+    "otp_warning": "OTP साझा न करें या भुगतान न करें",
+    "apk_warning": "व्हाट्सएप से ऐप इंस्टॉल न करें",
+    "call_warning": "कॉल काट दें और शांत रहें",
+    "report": "1930 पर कॉल करें या cybercrime.gov.in देखें"
+  },
+  "mr": {
+    "name": "मराठी",
+    "high_risk": "फसवणुकीचा उच्च धोका",
+    "medium_risk": "संभाव्य फसवणूक",
+    "safe": "कमी धोका",
+    "otp_warning": "OTP शेअर करू नका किंवा पैसे पाठवू नका",
+    "apk_warning": "व्हॉट्सअ‍ॅपवरून अ‍ॅप इंस्टॉल करू नका",
+    "call_warning": "कॉल बंद करा आणि शांत रहा",
+    "report": "1930 वर कॉल करा किंवा cybercrime.gov.in पहा"
+  },
+  "gu": {
+    "name": "ગુજરાતી",
+    "high_risk": "ઉચ્ચ છેતરપિંડી જોખમ",
+    "medium_risk": "શક્ય છેતરપિંડી",
+    "safe": "ઓછું જોખમ",
+    "otp_warning": "OTP શેર ન કરો અથવા ચુકવણી ન કરો",
+    "apk_warning": "વોટ્સએપ પરથી એપ ઇન્સ્ટોલ ન કરો",
+    "call_warning": "કોલ બંધ કરો અને શાંત રહો",
+    "report": "1930 પર કોલ કરો અથવા cybercrime.gov.in જુઓ"
+  },
+  "bn": {
+    "name": "বাংলা",
+    "high_risk": "উচ্চ প্রতারণার ঝুঁকি",
+    "medium_risk": "সম্ভাব্য প্রতারণা",
+    "safe": "কম ঝুঁকি",
+    "otp_warning": "OTP শেয়ার করবেন না বা টাকা পাঠাবেন না",
+    "apk_warning": "হোয়াটসঅ্যাপ থেকে অ্যাপ ইনস্টল করবেন না",
+    "call_warning": "কল কেটে দিন এবং শান্ত থাকুন",
+    "report": "1930 নম্বরে কল করুন বা cybercrime.gov.in দেখুন"
+  },
+  "ta": {
+    "name": "தமிழ்",
+    "high_risk": "உயர் மோசடி அபாயம்",
+    "medium_risk": "சாத்தியமான மோசடி",
+    "safe": "குறைந்த அபாயம்",
+    "otp_warning": "OTP பகிர வேண்டாம் அல்லது பணம் செலுத்த வேண்டாம்",
+    "apk_warning": "வாட்ஸ்அப்பில் இருந்து ஆப் நிறுவ வேண்டாம்",
+    "call_warning": "அழைப்பை நிறுத்தி அமைதியாக இருங்கள்",
+    "report": "1930க்கு அழைக்கவும் அல்லது cybercrime.gov.in பார்க்கவும்"
+  },
+  "te": {
+    "name": "తెలుగు",
+    "high_risk": "అధిక మోసం ప్రమాదం",
+    "medium_risk": "సంభవించే మోసం",
+    "safe": "తక్కువ ప్రమాదం",
+    "otp_warning": "OTP పంచుకోకండి లేదా చెల్లింపులు చేయకండి",
+    "apk_warning": "వాట్సాప్ నుండి యాప్ ఇన్‌స్టాల్ చేయవద్దు",
+    "call_warning": "కాల్ నిలిపివేసి ప్రశాంతంగా ఉండండి",
+    "report": "1930కు కాల్ చేయండి లేదా cybercrime.gov.in చూడండి"
+  },
+  "kn": {
+    "name": "ಕನ್ನಡ",
+    "high_risk": "ಅತಿ ಹೆಚ್ಚು ವಂಚನೆ ಅಪಾಯ",
+    "medium_risk": "ಸಂಭಾವ್ಯ ವಂಚನೆ",
+    "safe": "ಕಡಿಮೆ ಅಪಾಯ",
+    "otp_warning": "OTP ಹಂಚಿಕೊಳ್ಳಬೇಡಿ ಅಥವಾ ಹಣ ಪಾವತಿಸಬೇಡಿ",
+    "apk_warning": "ವಾಟ್ಸ್ಆಪ್ ಮೂಲಕ ಆಪ್ ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಬೇಡಿ",
+    "call_warning": "ಕಾಲ್ ಕಡಿದು ಶಾಂತವಾಗಿರಿ",
+    "report": "1930ಕ್ಕೆ ಕರೆ ಮಾಡಿ ಅಥವಾ cybercrime.gov.in ನೋಡಿ"
+  }
+}
