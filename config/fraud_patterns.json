@@ -1,0 +1,26 @@
+{
+  "DIGITAL_ARREST": {
+    "description": "Fake arrest or legal threat via phone or message",
+    "keywords": ["digital arrest", "court notice", "case registered", "warrant", "legal action"],
+    "weight": 40
+  },
+  "FAKE_POLICE": {
+    "description": "Impersonation of police or law enforcement",
+    "keywords": ["police", "cbi", "crime branch", "law enforcement"],
+    "weight": 35
+  },
+  "OTP_FRAUD": {
+    "description": "OTP or verification code theft",
+    "keywords": ["otp", "verification code", "do not share"],
+    "weight": 30
+  },
+  "UPI_SCAM": {
+    "description": "Fraudulent UPI collect or payment approval",
+    "keywords": ["upi", "collect request", "approve payment"],
+    "weight": 30
+  },
+  "BEHAVIOR": {
+    "fear": ["arrest", "jail", "blocked", "court"],
+    "urgency": ["immediately", "urgent", "within 24 hours", "act now"]
+  }
+}
